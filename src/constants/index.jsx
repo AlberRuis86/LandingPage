@@ -160,9 +160,9 @@ export const resourcesLinks = [
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Características" },
-  { href: "#", text: "Dispositivos Compatibles" },
-  { href: "#", text: "Requisitos del Sistema" },
+  { href: "#", text: "Facebook" },
+  { href: "#", text: "Instagram" },
+  { href: "#", text: "Whatsapp" },
 ];
 
 export const communityLinks = [
